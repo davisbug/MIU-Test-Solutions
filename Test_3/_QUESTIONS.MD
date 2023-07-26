@@ -4,7 +4,7 @@ those numbers are <5, 11>, <5, 20> and <4, 5>. You may assume that there exists 
 
 
 <b><u>Example: </u></b> <br>
-
+![Question 1](images/squarePairs.png)
 
 ----------------------------------------------------------------------------------------------
 
