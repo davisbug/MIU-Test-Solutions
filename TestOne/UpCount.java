@@ -1,4 +1,9 @@
 package TestOne;
+/* 
+ * Date: Jul 26, 2023
+ * Created by davisbug
+ * 
+ */
 
 public class UpCount {
     public static int nUpCount(int[] a, int n) {
