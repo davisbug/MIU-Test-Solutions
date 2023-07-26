@@ -6,7 +6,7 @@ The signature of the function is
 int isPerfectSquare(int n)
 
 <b><u>Example</u></b> <br>
-![Question 1](image.png)
+![Question 1](images/perfectSquare.png)
 
 ----------------------------------------------------------------------------------------------
 <b>QUESTION 2</b> <br>
@@ -16,7 +16,7 @@ if you are programming in Java or C#, the function signature is int nUpCount(int
 
 For example, if n=5, the 5-upcount of the array {2,3,1,-6,8,-3,-1,2} is 3.
 
-![Question 2](image-1.png) <br>
+![Question 2](images/upCount.png) <br>
 
 -----------------------------------------------------------------------------------------------
 
