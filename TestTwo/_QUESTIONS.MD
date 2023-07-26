@@ -7,4 +7,11 @@ The function returns the number of primes between start and end inclusive. Recal
 
 ----------------------------------------------------------------------------------------------
 
+<b>QUESTION 1</b> <br>
+A Madhav array has the following property. a[0] = a[1] + a[2] = a[3] + a[4] + a[5] = a[6] + a[7] + a[8] + a[9] = ... The length of a Madhav array must be n*(n+1)/2 for some n.
+Write a method named isMadhavArray that returns 1 if its array argument is a Madhav array,
+otherwise it returns 0. 
 
+![Question 2](images/madhavArray.png)
+
+----------------------------------------------------------------------------------------------
