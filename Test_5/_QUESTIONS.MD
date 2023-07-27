@@ -9,3 +9,9 @@ Please be sure that the method solve10 returns an array, a, with two elements
 where a[0] == x, a[1] == y and x! + y! = 10!.
 
 ----------------------------------------------------------------------------------------------
+<b>QUESTION 2</b> <br>
+An array can hold the digits of a number. For example the digits of the number 32053 are
+stored in the array {3, 2, 0, 5, 3}. Write a method call repsEqual that takes an array and aninteger and returns 1 if the array contains only the digits of the number in the same order that they appear in the number. Otherwise it returns 0. 
+
+<b><u>Tests: </u></b> <br>
+![Question 2](images/repsEqual.png)
