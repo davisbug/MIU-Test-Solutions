@@ -17,3 +17,15 @@ Write a method named isDivisible that takes an integer array and a divisor and r
 ![Question 2](images/divisible.png)
 
 -----------------------------------------------------------------------------------------------
+<b>QUESTION 3</b> <br>
+An array is defined to be n-unique if exactly one pair of its elements sum to n. For example, the array {2, 7, 3, 4} is 5- unique because only a[0] and a[2] sum to 5. But the array {2, 3, 3, 7} is not 5-unique because a[0] + a[1] = 5 and a[0] + a[2] = 5. <br>
+
+Write a function named isNUnique that returns 1 if its integer array argument is n-unique, otherwise it returns 0. So
+<ol>
+<li>isNUnique(new int[ ]{2, 7, 3, 4}, 5) should return 1 </li>
+<li>isNUnique(new int[] {2, 3, 3, 7}, 5) should return 0 </li>
+</ol>
+<b><u>Test Cases: </u></b> <br>
+![Question 3](images/nunique.png)
+
+
