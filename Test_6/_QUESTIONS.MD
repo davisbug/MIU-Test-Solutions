@@ -10,3 +10,10 @@ The function signature is <b>int henry (int i, int j)</b>
 You do not have to worry about integer overflow, i.e., you may assume that each sum that you have to compute can be represented as a 31 bit integer. Hint: use modulo arithmetic to determine if one number is a factor of another.
 
 ----------------------------------------------------------------------------------------------
+<b>QUESTION 2</b> <br>
+Write a method named isDivisible that takes an integer array and a divisor and returns 1 if all its elements are divided by the divisor with no remainder. Otherwise it returns 0.
+
+<b><u>Test Cases: </u></b> <br>
+![Question 2](images/divisible.png)
+
+-----------------------------------------------------------------------------------------------
