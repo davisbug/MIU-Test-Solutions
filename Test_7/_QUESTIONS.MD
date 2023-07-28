@@ -29,7 +29,7 @@ However, since all digits of a base n number must be less than n, the following 
 - isLegalNumber(new int[] {3, 7, 1}, 6)
 
 -----------------------------------------------------------------------------------------------
-<b>QUESTION 2</b> <br>
+<b>QUESTION 3</b> <br>
 Using the <array, base> representation for a number described in the second question write a method named convertToBase10 that converts its <array, base> arguments to a base 10 number if the input is legal for the specified base. If it is not, it returns -1.
 
 Some examples:
