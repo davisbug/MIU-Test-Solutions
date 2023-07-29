@@ -44,3 +44,8 @@ Write a function named isStacked that returns 1 if its argument is stacked. Othe
 So for example, isStacked(10) should return 1 and isStacked(7) should return 0.
 
 -----------------------------------------------------------------------------------------------
+<b>QUESTION 3 </b> <br>
+
+Define an array to be sum-safe if none of its elements is equal to the sum of its elements. The array a = {5, -5, 0} is not sum-safe because the sum of its elements is 0 and a[2] == 0. However, the array a = {5, -2, 1} is sum-safe because the sum of its elements is 4 and none of its elements equal 4. <br>
+Write a function named isSumSafe that returns 1 if its argument is sum-safe, otherwise it returns 0.
+
