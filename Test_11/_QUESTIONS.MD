@@ -21,15 +21,14 @@ For example, countRepresentations(12) should return 15 because 12 rupees can be 
 
 <br>
 Hint: Use a nested loop that looks like this. Please fill in the blanks intelligently, i.e. minimize the number of times that the if statement is executed. <br>
-for (int rupee20=0; rupee20<=__; rupee20++)<br>
-    for (int rupee10=0; rupee10<=__; rupee10++)<br>
-        for (int rupee5=0; rupee5<=__; rupee5++)<br>
-            for (int rupee2=0; rupee2<=__; rupee2++)<br>
-                for (int rupee1=0; rupee1<=__; rupee1++)<br>
-                        {
-                            if (___)<br>
-                            count++<br>
-                        }
+<t>for (int rupee20=0; rupee20<=__; rupee20++)<br>
+    <t><t>for (int rupee10=0; rupee10<=__; rupee10++)<br>
+       <t><t><t> for (int rupee5=0; rupee5<=__; rupee5++)<br>
+          <t><t><t><t>  for (int rupee2=0; rupee2<=__; rupee2++)<br>
+               <t><t><t><t><t> for (int rupee1=0; rupee1<=__; rupee1++)<br>{
+                            <t><t><t><t><t><t>if (___)<br>
+                            <t><t><t><t><t><t>count++<br>
+                       <t><t><t><t><t> }
 
 ----------------------------------------------------------------------------------------------
 <b>QUESTION 2</b> <br>
