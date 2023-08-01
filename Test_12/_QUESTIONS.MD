@@ -14,5 +14,9 @@ The function returns the cluster compression of the array a. The length of the r
 ![Question 2](images/clusterCompression.png)
 
 -----------------------------------------------------------------------------------------------
+<b>QUESTION 3</b> <br> 
+
+![Question 3](images/isRailroadTie.png)
+ 
 
 
