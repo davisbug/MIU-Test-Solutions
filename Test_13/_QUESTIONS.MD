@@ -27,3 +27,6 @@ returns 0. You may assume that the array is not null.
 ![Question 2](images/packed.png)
 
 -----------------------------------------------------------------------------------------------
+<b>QUESTION 2</b> <br>
+
+![Question 3](images/oddHeavy.png)
