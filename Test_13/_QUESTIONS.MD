@@ -13,3 +13,17 @@ Hint: use modulo and integer arithmetic to convert n to its various representati
 ![Question 1](images/fullnessQuotient.png)
 
 ----------------------------------------------------------------------------------------------
+<b>QUESTION 2</b> <br>
+
+Define an array to be packed if all its values are positive, each value n appears n
+times and all equal values are in consecutive locations. So for example, {2, 2, 3, 3, 3}
+is packed because 2 appears twice and 3 appears three times. But {2, 3, 2, 3, 3} is not
+packed because the 2s are not in consecutive locations. And {2, 2, 2, 3, 3, 3} is not
+packed because 2 appears three times. <br>
+
+Write a method named isPacked that returns 1 if its array argument is packed, otherwise it
+returns 0. You may assume that the array is not null. 
+
+![Question 2](images/packed.png)
+
+-----------------------------------------------------------------------------------------------
