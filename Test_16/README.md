@@ -9,3 +9,6 @@
 ![question 2](images/encodeNumber.png)
 
 -----------------------------------------------------------------------------------------------
+<b>QUESTION 3</b> <br>
+
+![question 3](images/matchPattern.png)
