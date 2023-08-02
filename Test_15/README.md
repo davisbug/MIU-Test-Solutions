@@ -9,3 +9,6 @@ Write a function named largestAdjacentSum that iterates through an array computi
 ![question 2](images/concatinatedSum.png)
 
 -----------------------------------------------------------------------------------------------
+<b>QUESTION 3</b> <br>
+
+![question 3](images/sequencedArray.png)
