@@ -1,5 +1,9 @@
 package Test_14;
-
+/* 
+ * Date: Aug 2, 2023
+ * Created by davisbug
+ * 
+ */
 public class Is121Array {
     public static int is121Array(int[] a){
         if(a.length < 3 || a[0] != 1 || a[a.length - 1] != 1)
